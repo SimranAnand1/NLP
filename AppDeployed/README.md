@@ -10,5 +10,3 @@ to get all english tweets that have the users search term, then utilized a flutt
 this tool assigns values to each word in the selected tweets and sums them up to give a overall score of how possitive the tweet is,
 Using this method I am attempting to crow source public opinions about certain topics and give it a numerical value.
 
-# Video
-<a href = "https://www.youtube.com/watch?v=KKUMIikfib8"> <img src = "AppScreenShot.jpg" height = "560" width = "315"></a>
